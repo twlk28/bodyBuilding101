@@ -1,5 +1,7 @@
 # Introduction
 
+电子书地址：[https://twlk28.gitbooks.io/bodybuilding101/content/index.html][1]
+
 * [健身体系 0%](section1/README.md)
 * [制定训练计划](section2/README.md)
 	- [训练思路 10%](section2/guideline.md)
@@ -11,3 +13,5 @@
 	- [卧推 0%](section3/bench-press.md)
 	- [硬拉 0%](section3/dead-lift.md)
 * [词汇 0%](section9/README.md)
+
+[1]: https://twlk28.gitbooks.io/bodybuilding101/content/index.html
