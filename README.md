@@ -12,6 +12,6 @@
 	- [深蹲 0%](section3/squat.md)
 	- [卧推 0%](section3/bench-press.md)
 	- [硬拉 0%](section3/dead-lift.md)
-* [词汇 0%](section9/README.md) 
+* [词汇 0%](section9/README.md)  
 
 [1]: https://twlk28.gitbooks.io/bodybuilding101/content/index.html
